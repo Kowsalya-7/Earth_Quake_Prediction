@@ -1,9 +1,9 @@
 Dataset Description
 The dataset contains the following features:
 
-Date: Date of the earthquake event.
-Time: Time of the earthquake event.
-Latitude: Latitude coordinate of the earthquake's epicenter.
+1.Date: Date of the earthquake event.
+2.Time: Time of the earthquake event.
+3.Latitude: Latitude coordinate of the earthquake's epicenter.
 Longitude: Longitude coordinate of the earthquake's epicenter.
 Type: Type of earthquake (e.g., tectonic, volcanic).
 Depth: Depth of the earthquake's focus below the Earth's surface.
