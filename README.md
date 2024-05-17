@@ -33,7 +33,7 @@ The dataset contains the following features:
 ## Project Structure
 
 - `dataset.csv/`: Directory containing the earthquake dataset.
-  - `earthquake_data.csv`: Main dataset file containing earthquake records.
+  - `dataset.csv`: Main dataset file containing earthquake records.
 - `notebooks/`: Jupyter notebooks for data exploration, preprocessing, and modeling.
   - `1_earthquake.ipynb`: Notebook for building and evaluating machine learning models.
 - `README.md`: This README file providing an overview of the project.
